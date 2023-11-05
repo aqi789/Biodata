@@ -1,0 +1,25 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+.rectangle {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    float: right;
+    margin-right: 97px;
+    margin-top: -112px;
+}
+h2 {
+    background-color: black;
+    color: white;
+}
+form {
+    border: 2px solid black;
+    border-radius: 9px;
+    padding: 20px;
+
+}
+label, input {
+    margin-bottom: 22px;
+}
